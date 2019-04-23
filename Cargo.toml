@@ -1,0 +1,7 @@
+[package]
+name = "event-sourcing"
+version = "0.1.0"
+authors = ["Matteo Giachino <matteog@gmail.com>"]
+edition = "2018"
+
+[dependencies]
